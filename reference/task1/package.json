@@ -1,0 +1,9 @@
+{
+  "name": "A Node.js App",
+  "description": "LabExercise 1-Task1",
+  "author": "你的全名",
+  "version": "0.0.1",
+  "dependencies": { "express": "*" },
+  "engine": "*",
+  "scripts": { "start": "node server.js" }
+}
