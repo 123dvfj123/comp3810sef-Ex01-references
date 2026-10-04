@@ -36,7 +36,7 @@ nano server.js
 把这一行改成你的 key：
 
 ```javascript
-const APIKEY='你的key';//**your API key***
+const APIKEY='77b62358916e3fabc27c3d884560f2d7';//**your API key***
 ```
 
 保存（Ctrl+O → 回车 → Ctrl+X），运行：
